@@ -1,7 +1,7 @@
 FROM node:14.15.3-alpine3.12
 
 # Add a work directory
-WORKDIR /app
+WORKDIR /backend
 
 # Cache and Install dependencies
 COPY package.json .
