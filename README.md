@@ -1,5 +1,3 @@
-**An improved directory and employee search tool.**
-
 # :wave: Introduction
 
 This a proof of concept for a questionair to be sent to employees to ask about remote work.
